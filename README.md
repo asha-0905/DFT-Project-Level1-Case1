@@ -50,22 +50,16 @@ The goal was to identify non-scan flops, replace them with scan-enabled cells, a
 ## 🖼️ Visual Snapshots
 
 ### Before (Non-scan Flop)
-![Non-scan schematic](screenshots/schematic_non_scan.png)
 
 ### After (Scan flop inserted)
-![Scan schematic](screenshots/schematic_scan.png)
 
 ### Dofile
-![Dofile](screenshots/dofile.png)
 
 ### Scan Chain Report
-![Scan chain](screenshots/scan_chain_report.png)
 
 ### Scan Cell Report
-![Scan_cell](screenshots/scan_cell_report.png)
 
 ### Terminal_log
-![Terminal_log](screenshots/terminal_log.png)
 
 ---
 
