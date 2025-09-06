@@ -50,16 +50,22 @@ The goal was to identify non-scan flops, replace them with scan-enabled cells, a
 ## 🖼️ Visual Snapshots
 
 ### Before (Non-scan Flop)
+![Non_Scan_Flop](https://github.com/asha-0905/DFT-Project-Level1-Case1/blob/main/schematic_non_scan.png?raw=true)
 
 ### After (Scan flop inserted)
+![Scan_Flop](https://github.com/asha-0905/DFT-Project-Level1-Case1/blob/main/schematic_scan.png?raw=true)
 
 ### Dofile
+![Dofile](https://github.com/asha-0905/DFT-Project-Level1-Case1/blob/main/dofile.png?raw=true)
 
 ### Scan Chain Report
+![Scan_Chain_Report](https://github.com/asha-0905/DFT-Project-Level1-Case1/blob/main/scan_chain_report.png?raw=true)
 
 ### Scan Cell Report
+![Scan_Cell_Report](https://github.com/asha-0905/DFT-Project-Level1-Case1/blob/main/scan_cell_report.png?raw=true)
 
 ### Terminal_log
+![Terminal_Log](https://github.com/asha-0905/DFT-Project-Level1-Case1/blob/main/terminal_log.png?raw=true)
 
 ---
 
